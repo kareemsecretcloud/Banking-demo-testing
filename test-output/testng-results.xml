@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T13:46:58 EET" name="Default suite" finished-at="2024-04-24T13:47:23 EET" duration-ms="25423">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T13:46:58 EET" name="Default test" finished-at="2024-04-24T13:47:23 EET" duration-ms="25423">
+      <class name="testing.Guru99BankTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testing.Guru99BankTest@e15b7e8]" started-at="2024-04-24T13:46:58 EET" name="setup" finished-at="2024-04-24T13:47:10 EET" duration-ms="12711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:0, instance:testing.Guru99BankTest@e15b7e8]" started-at="2024-04-24T13:47:10 EET" name="logintest" finished-at="2024-04-24T13:47:20 EET" duration-ms="9921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testing.Guru99BankTest@e15b7e8]" started-at="2024-04-24T13:47:20 EET" name="teardown" finished-at="2024-04-24T13:47:23 EET" duration-ms="2715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testing.Guru99BankTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
